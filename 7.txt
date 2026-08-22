@@ -1,118 +1,123 @@
-Liczba posłów w Sejmie RP	460 posłów (art. 96 ust. 1).
-Liczba senatorów w Senacie RP	100 senatorów (art. 97 ust. 1).
-Przymiotniki wyborcze do Sejmu RP	Powszechne, równe, bezpośrednie, proporcjonalne, w głosowaniu tajnym (art. 96 ust. 2).
-Przymiotniki wyborcze do Senatu RP	Powszechne, bezpośrednie, w głosowaniu tajnym (brak proporcjonalności i równości w znaczeniu materialnym) (art. 97 ust. 2).
-Długość kadencji Sejmu i Senatu	4 lata, rozpoczyna się z dniem zebrania się Sejmu na pierwsze posiedzenie (art. 98 ust. 1).
-Wiek wymagany do kandydowania do Sejmu (bierne prawo wyborcze)	Ukończone 21 lat najpóźniej w dniu wyborów (art. 99 ust. 1).
-Wiek wymagany do kandydowania do Senatu (bierne prawo wyborcze)	Ukończone 30 lat najpóźniej w dniu wyborów (art. 99 ust. 2).
-Kto nie może być wybrany do Sejmu lub Senatu?	Osoba skazana prawomocnym wyrokiem na karę pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe (art. 99 ust. 3).
-Kto i w jakim terminie od dnia wyborów zwołuje pierwsze posiedzenie Sejmu i Senatu?	Prezydent RP, w ciągu 30 dni od dnia wyborów (art. 109 ust. 1).
-Kto ogłasza ważność wyborów do Sejmu i Senatu?	Sąd Najwyższy (art. 101 ust. 1).
-W jakim terminie można wnieść protest wyborczy do Sądu Najwyższego?	Zasady określa ustawa, ale Sąd Najwyższy podejmuje uchwałę o ważności wyborów nie później niż w 90 dni po dniu wyborów.
-Na czyj wniosek Sejm może skrócić swoją kadencję?	Uchwałą podjętą większością co najmniej 2/3 głosów ustawowej liczby posłów (307 posłów) (art. 98 ust. 3).
-Kiedy Prezydent RP MOŻE skrócić kadencję Sejmu?	1. Jeżeli w 3. kroku konstytucyjnym nie zostanie powołana Rada Ministrów lub nie otrzyma wotum zaufania (art. 155 ust. 1). 2. Jeżeli w ciągu 4 miesięcy od dnia przedłożenia Sejmowi projektu ustawy budżetowej nie zostanie ona przedstawiona Prezydentowi do podpisu (art. 225).
-W jakim terminie Prezydent podejmuje decyzję o skróceniu kadencji Sejmu z powodu nieuchwalenia budżetu?	W ciągu 14 dni od upływu 4-miesięcznego terminu (art. 225).
-Czy skrócenie kadencji Sejmu oznacza automatyczne skrócenie kadencji Senatu?	Tak, skrócenie kadencji Sejmu oznacza jednoczesne skrócenie kadencji Senatu (art. 98 ust. 4).
-Immunitet parlamentarny – rodzaje	1. Materialny (nieodpowiedzialność za działalność wchodzącą w zakres sprawowania mandatu, trwa wiecznie). 2. Formalny (zakaz pociągania do odpowiedzialności karnej bez zgody izby, trwa w czasie mandatu) (art. 105).
-Zasada niepołączalności mandatu (incompatibilitas) – przykłady	Mandatu posła/senatora nie można łączyć m.in. z funkcją Prezesa NBP, Prezesa NIK, RPO, sędziego, prokuratora, urzędnika służby cywilnej (art. 103).
-Kto stoi na czele Sejmu i Senatu?	Marszałek Sejmu / Marszałek Senatu, wybierani na pierwszym posiedzeniu izby (art. 110 i art. 124).
-Kworum wymagane do podejmowania uchwał przez Sejm i Senat	Obecność co najmniej połowy ustawowej liczby posłów lub senatorów (art. 120, art. 124).
-Standardowa większość wymagana do uchwalania ustaw w Sejmie	Zwykła większość głosów w obecności co najmniej połowy ustawowej liczby posłów (art. 120).
-W jakim terminie Senat może uchwalić poprawki do ustawy lub ją odrzucić?	W ciągu 30 dni od dnia przekazania ustawy przez Marszałka Sejmu (art. 121 ust. 2).
-Jaką większością Sejm może odrzucić uchwałę Senatu o odrzuceniu ustawy lub jej poprawkę?	Bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów (art. 121 ust. 3).
-W jakim terminie Senat rozpatruje ustawę budżetową?	W ciągu 20 dni od dnia przekazania jej Sejmowi (art. 223).
-Kiedy Sejm i Senat działają wspólnie jako Zgromadzenie Narodowe?	1. Przyjęcie przysięgi od Prezydenta. 2. Uznanie trwałej niezdolności Prezydenta do sprawowania urzędu (większość co najmniej 2/3 głosów ustawowej liczby członków ZN). 3. Postawienie Prezydenta w stan oskarżenia przed Trybunałem Stanu (większość co najmniej 2/3 głosów ustawowej liczby członków ZN) (art. 114, art. 131, art. 145).
-Wiek wymagany do kandydowania na Prezydenta RP	Ukończone 35 lat najpóźniej w dniu wyborów (art. 127 ust. 3).
-Ile podpisów obywateli należy zebrać, by zgłosić kandydata na Prezydenta RP?	Co najmniej 100 000 podpisów obywateli mających prawo wybierania do Sejmu (art. 127 ust. 3).
-Ile trwa kadencja Prezydenta RP i ile razy można ją powtórzyć?	5 lat, ponowny wybór dopuszczalny jest tylko jeden raz (art. 127 ust. 2).
-Przed jakim organem Prezydent RP składa przysięgę?	Przed Zgromadzeniem Narodowym (art. 130).
-W jakich sytuacjach Marszałek Sejmu tymczasowo wykonuje obowiązki Prezydenta RP?	1. Śmierć Prezydenta. 2. Zrzeczenie się urzędu przez Prezydenta. 3. Stwierdzenie nieważności wyboru Prezydenta. 4. Uznanie przez Zgromadzenie Narodowe trwałej niezdolności Prezydenta do sprawowania urzędu ze względu na stan zdrowia. 5. Postawienie Prezydenta w stan oskarżenia przed Trybunałem Stanu (art. 131 ust. 2).
-Kto przejmuje obowiązki Prezydenta, jeśli Marszałek Sejmu nie może ich wykonywać?	Marszałek Senatu (art. 131 ust. 3).
-Przed jakim organem Prezydent RP odpowiada za naruszenie Konstytucji lub ustaw?	Przed Trybunałem Stanu (art. 145 ust. 1).
-Jaką większością Zgromadzenie Narodowe stawia Prezydenta w stan oskarżenia przed Trybunałem Stanu?	Większością co najmniej 2/3 głosów ustawowej liczby członków Zgromadzenia Narodowego na wniosek co najmniej 140 członków ZN (art. 145 ust. 2).
-Co to jest kontrasygnata?	Podpis Prezesa Rady Ministrów (Premiera) pod aktem urzędowym Prezydenta RP, warunkujący ważność tego aktu i przenoszący odpowiedzialność polityczną na rząd (art. 144 ust. 2).
-Co to są prerogatywy Prezydenta RP?	Akty urzędowe Prezydenta RP, które dla swojej ważności NIE wymagają kontrasygnaty (podpisu) Premiera. Konstytucja wymienia ich dokładnie 30 (art. 144 ust. 3).
-Wymień 5 najważniejszych prerogatyw Prezydenta RP (bez kontrasygnaty)	1. Zarządzanie wyborów do Sejmu i Senatu. 2. Inicjatywa ustawodawcza. 3. Stosowanie prawa łaski. 4. Wetowanie ustaw (zwracanie Sejmowi do ponownego rozpatrzenia). 5. Powoływanie sędziów. 6. Desygnowanie i powoływanie Premiera (art. 144 ust. 3).
-W jakim standardowym terminie Prezydent podpisuje ustawę?	W ciągu 21 dni od dnia przedstawienia jej przez Marszałka Sejmu (art. 122 ust. 2).
-W jakim terminie Prezydent podpisuje ustawę budżetową lub ustawę w trybie pilnym?	W ciągu 7 dni od dnia przedstawienia (art. 122 ust. 4, art. 224 ust. 1).
-Jakie opcje ma Prezydent, gdy otrzyma ustawę do podpisu?	1. Podpisać ustawę. 2. Zgłosić weto (zwrócić Sejmowi do ponownego rozpatrzenia). 3. Zwrócić się do Trybunału Konstytucyjnego z wnioskiem o zbadanie zgodności ustawy z Konstytucją (art. 122).
-Jaką większością Sejm może odrzucić weto Prezydenta?	Większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów (art. 122 ust. 5).
-Wobec kogo Prezydent NIE może zastosować prawa łaski?	Wobec osób skazanych przez Trybunał Stanu (art. 139).
-Kto jest Najwyższym Zwierzchnikiem Sił Zbrojnych RP?	Prezydent Rzeczypospolitej Polskiej (art. 134 ust. 1).
-Kogo Prezydent mianuje na wniosek Ministra Obrony Narodowej w czasie pokoju?	Szefa Sztabu Generalnego oraz dowódców rodzajów Sił Zbrojnych (art. 134 ust. 3).
-Kogo Prezydent mianuje na czas wojny?	Naczelnego Dowódcę Sił Zbrojnych (art. 134 ust. 4).
-Czym jest Rada Gabinetowa?	Radę Gabinetową tworzy Rada Ministrów (rząd) obradująca pod przewodnictwem Prezydenta RP w sprawach szczególnej wagi. Nie ma ona kompetencji Rady Ministrów (art. 141).
-Kto reprezentuje państwo w stosunkach zewnętrznych?	Prezydent RP jako najwyższy reprezentant Rzeczypospolitej Polskiej (art. 133 ust. 1).
-Z kim Prezydent współdziała w polityce zagranicznej?	Z Prezesem Rady Ministrów i właściwym ministrem (art. 133 ust. 3).
-Kto wchodzi w skład Rady Ministrów?	Prezes Rady Ministrów (Premier), wiceprezesi Rady Ministrów, ministrowie oraz przewodniczący określonych w ustawach komitetów (art. 147 ust. 1).
-Na czym polega I krok konstytucyjny tworzenia rządu?	Prezydent desygnuje Premiera i powołuje rząd w ciągu 14 dni od pierwszego posiedzenia Sejmu. Premier ma kolejne 14 dni na przedstawienie expose i uzyskanie wotum zaufania od Sejmu bezwzględną większością głosów (art. 154 ust. 1 i 2).
-Jaka większość jest wymagana w I kroku konstytucyjnym rządu?	Bezwzględna większość głosów w obecności co najmniej połowy ustawowej liczby posłów (art. 154 ust. 2).
-Na czym polega II krok konstytucyjny tworzenia rządu?	Jeżeli rząd z I kroku nie uzyska wotum zaufania, w ciągu 14 dni Sejm wybiera Premiera i proponowanych członków rządu. Wymagana jest bezwzględna większość głosów (art. 154 ust. 3).
-Na czym polega III krok konstytucyjny tworzenia rządu?	Jeżeli Sejm nie wybierze rządu w II kroku, Prezydent w ciągu 14 dni ponownie powołuje Premiera i rząd. Sejm w ciągu 14 dni udziela wotum zaufania zwykłą większością głosów (art. 155 ust. 1).
-Jaka większość jest wymagana w III kroku konstytucyjnym rządu?	Zwykła większość głosów w obecności co najmniej połowy ustawowej liczby posłów (art. 155 ust. 1).
-Co się dzieje, jeśli III krok konstytucyjny powołania rządu zakończy się fiaskiem?	Prezydent RP skraca kadencję Sejmu i zarządza wybory parlamentarne (art. 155 ust. 1).
-Kto i na czyj wniosek dokonuje zmian w składzie Rady Ministrów w trakcie jej trwania?	Prezydent RP na wniosek Prezess Rady Ministrów (art. 161).
-Co to jest konstruktywne wotum nieufności?	Wniosek zgłoszony przez co najmniej 46 posłów, wskazujący imiennie nowego kandydata na Premiera. Sejm uchwala go większością ustawowej liczby posłów (min. 231) (art. 158 ust. 1).
-Jaką większością Sejm wyraża wotum nieufności pojedynczemu ministrowi?	Większością ustawowej liczby posłów (min. 231) na wniosek co najmniej 69 posłów (art. 159 ust. 1).
-Kiedy Premier jest obowiązany złożyć dymisję rządu?	1. Na pierwszym posiedzeniu nowo wybranego Sejmu. 2. W razie nieuchwalenia przez Sejm wotum zaufania. 3. W razie wyrażenia rządowi wotum nieufności. 4. W razie własnej rezygnacji (art. 162 ust. 1 i 2).
-Skład Trybunału Konstytucyjnego	15 sędziów (art. 194 ust. 1).
-Kto i na jaką kadencję wybiera sędziów Trybunału Konstytucyjnego?	Sejm indywidualnie, na kadencję wynoszącą 9 lat. Ponowny wybór jest niedopuszczalny (art. 194 ust. 1).
+Pytanie	Odpowiedź
+Ile wynosi konstytucyjna liczba posłów wchodzących w skład Sejmu RP?	460 posłów (art. 96 ust. 1 Konstytucji RP).
+Ilu senatorów wchodzi w skład Senatu RP według Konstytucji z 1997 roku?	100 senatorów (art. 97 ust. 1 Konstytucji RP).
+Ile trwa konstytucyjna kadencja Sejmu i Senatu?	4 lata, rozpoczyna się z dniem zebrania się Sejmu na pierwsze posiedzenie (art. 98 ust. 1).
+Kto i w jakim terminie zarządza wybory do Sejmu i Senatu?	Prezydent RP, nie później niż na 90 dni przed upływem kadencji (art. 98 ust. 2).
+Na jakie dni tygodnia Prezydent może wyznaczyć dzień wyborów parlamentarnych?	Na dzień wolny od pracy, przypadający w ciągu 30 dni przed upływem kadencji (art. 98 ust. 2).
+Kto decyduje o skróceniu kadencji Sejmu i jaką większością głosów?	Sejm uchwałą podjętą większością co najmniej 2/3 głosów ustawowej liczby posłów (art. 98 ust. 3) lub Prezydent w określonych przypadkach.
+W jakim jedynym przypadku Prezydent RP ma konstytucyjny obowiązek skrócenia kadencji Sejmu?	Gdy w procedurze powoływania Rady Ministrów (3 kroki) nie zostanie udzielone wotum zaufania (art. 155 ust. 1).
+W jakim przypadku Prezydent RP posiada fakultatywne (nieobowiązkowe) prawo skrócenia kadencji Sejmu?	Jeżeli w ciągu 4 miesięcy od dnia przedłożenia projektu ustawy budżetowej Sejm nie przedstawi jej Prezydentowi do podpisu (art. 225).
+Ile wynosi wiek uprawniający do kandydowania (bierne prawo wyborcze) do Sejmu?	Najpóźniej w dniu wyborów ukończone 21 lat (art. 99 ust. 1).
+Ile wynosi minimalny wiek kandydata w wyborach do Senatu?	Najpóźniej w dniu wyborów ukończone 30 lat (art. 99 ust. 2).
+Jakie są przymiotniki wyborcze w wyborach do Sejmu?	Powszechne, równe, bezpośrednie, proporcjonalne, w głosowaniu tajnym (5-przymiotnikowe, art. 96 ust. 2).
+Jakie są przymiotniki wyborcze w wyborach do Senatu?	Powszechne, bezpośrednie, w głosowaniu tajnym (3-przymiotnikowe, brak równości i proporcjonalności, art. 97 ust. 2).
+Kto rozstrzyga o ważności wyborów do Sejmu i Senatu?	Sąd Najwyższy (art. 101 ust. 1).
+W jakim terminie od dnia wyborów parlamentarnych Prezydent musi zwołać pierwsze posiedzenie Sejmu i Senatu?	W ciągu 30 dni od dnia wyborów (art. 109 ust. 1).
+Ile wynosi minimalne kworum wymagane do podejmowania uchwał przez Sejm?	Co najmniej połowa ustawowej liczby posłów (czyli minimum 230 posłów, art. 120).
+Jaka większość głosów jest standardowo wymagana do uchwalania ustaw w Sejmie, jeśli Konstytucja nie stanowi inaczej?	Zwykła większość głosów w obecności co najmniej połowy ustawowej liczby posłów (art. 120).
+W jakim terminie Senat może uchwalić poprawki do ustawy przyjętej przez Sejm?	W ciągu 30 dni od dnia przekazania ustawy (art. 121 ust. 2).
+Jaką większością Sejm może odrzucić poprawki Senatu lub jego wniosek o odrzucenie ustawy?	Bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów (art. 121 ust. 3).
+Komu przysługuje konstytucyjne prawo inicjatywy ustawodawczej?	Posłom (komisjom lub min. 15 posłom), Senatowi, Prezydentowi RP, Radzie Ministrów oraz grupie co najmniej 100 000 obywateli (art. 118).
+Kto posiada wyłączną inicjatywę ustawodawczą w zakresie ustawy budżetowej?	Rada Ministrów (Rząd) – art. 221.
+Ile podpisów obywateli wymaga wniesienie projektu ustawy w ramach obywatelskiej inicjatywy ustawodawczej?	Co najmniej 100 000 podpisów (art. 118 ust. 2).
+Ile wynosi podstawowy termin dla Prezydenta RP na podpisanie ustawy?	21 dni od dnia przedstawienia jej przez Marszałka Sejmu (art. 122 ust. 2).
+Ile wynosi termin na podpisanie przez Prezydenta ustawy uznanej za pilną?	7 dni (art. 123 ust. 3).
+Ile wynosi termin na podpisanie przez Prezydenta ustawy budżetowej?	7 dni (art. 224 ust. 1).
+Jaką większością Sejm może odrzucić weto Prezydenta (ponownie uchwalić ustawę)?	Większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów (art. 122 ust. 5).
+Do jakiego organu Prezydent może zaskarżyć ustawę przed jej podpisaniem w celu zbadania zgodności z Konstytucją?	Do Trybunału Konstytucyjnego (art. 122 ust. 3).
+Czy Prezydent może zawetować ustawę budżetową?	Nie. Art. 224 ust. 1 wprost zakazuje stosowania weta wobec ustawy budżetowej (może tylko odesłać do TK).
+Ile wynosi kadencja Prezydenta RP?	5 lat, rozpoczyna się z dniem objęcia przez niego urzędu (art. 127 ust. 2).
+Ile razy ta sama osoba może maksymalnie pełnić funkcję Prezydenta RP?	Dwukrotnie (może być ponownie wybrana tylko raz, art. 127 ust. 2).
+Ile wynosi minimalny wiek kandydata na Prezydenta RP?	Ukończone 35 lat najpóźniej w dniu wyborów (art. 127 ust. 3).
+Ile podpisów obywateli musi zebrać kandydat na Prezydenta RP, aby zarejestrować swoją kandydaturę?	Co najmniej 100 000 podpisów obywateli mających prawo wybierania do Sejmu (art. 127 ust. 3).
+Przed jakim organem Prezydent RP składa przysięgę konstytucyjną i obejmuje urząd?	Przed Zgromadzeniem Narodowym (art. 130).
+Czym jest Zgromadzenie Narodowe?	Wspólnymi posiedzeniami posłów i senatorów obradującymi pod przewodnictwem Marszałka Sejmu (lub Marszałka Senatu) w celach określonych w Konstytucji (art. 114).
+Kto i w jakiej kolejności tymczasowo zastępuje Prezydenta RP, jeśli nie może on pełnić urzędu lub zmarł?	Marszałek Sejmu, a gdy ten nie może – Marszałek Senatu (art. 131).
+W jakim terminie od opróżnienia urzędu Prezydenta zastępujący go Marszałek Sejmu musi zarządzić nowe wybory?	W ciągu 14 dni od opróżnienia urzędu (art. 131 ust. 3).
+Kto jest Najwyższym Zwierzchnikiem Sił Zbrojnych RP?	Prezydent RP (art. 134 ust. 1).
+Za pośrednictwem kogo Prezydent RP sprawuje zwierzchnictwo nad Siłami Zbrojnymi w czasie pokoju?	Za pośrednictwem Ministra Obrony Narodowej (art. 134 ust. 2).
+Kogo Prezydent mianuje na wniosek Prezesa Rady Ministrów w strukturach wojskowych?	Szefa Sztabu Generalnego i dowódców rodzajów Sił Zbrojnych (art. 134 ust. 3).
+W odniesieniu do jakich osób Prezydent RP NIE może zastosować prawa łaski?	Do osób skazanych przez Trybunał Stanu (art. 139).
+Czym są prerogatywy Prezydenta RP?	Są to akty urzędowe Prezydenta, które dla swojej ważności NIE wymagają podpisu (kontrasygnaty) Prezesa Rady Ministrów (art. 144 ust. 3).
+Ile prerogatyw wymienia wprost art. 144 ust. 3 Konstytucji RP?	30 konkretnych kategorii aktów osobistych.
+Przed jakim organem Prezydent RP odpowiada za naruszenie Konstytucji, ustawy lub za popełnienie przestępstwa?	Przed Trybunałem Stanu (art. 145 ust. 1).
+Jaką większością i przez jaki organ Prezydent może być postawiony w stan oskarżenia przed Trybunałem Stanu?	Uchwałą Zgromadzenia Narodowego podjętą większością co najmniej 2/3 głosów ustawowej liczby członków ZN na wniosek co najmniej 140 członków ZN (art. 145 ust. 2).
+Kto przewodniczy Radzie Gabinetowej i czym ona jest?	Prezydent RP; tworzy ją Rada Ministrów obradująca pod przewodnictwem Prezydenta w sprawach szczególnej wagi (nie ma kompetencji rządu, art. 141).
+Kto wchodzi w skład Rady Ministrów (Rządu)?	Prezes Rady Ministrów (Premier) oraz ministrowie (art. 147 ust. 1). W skład mogą wchodzić też wiceprezesi RM oraz przewodniczący komitetów.
+Kto reprezentuje Skarb Państwa i zapewnia wykonanie ustaw?	Rada Ministrów (art. 146).
+Opisz KROK I powoływania Rady Ministrów:	Prezydent desygnuje Premiera, powołuje go wraz z rządem w ciągu 14 dni od pierwszego posiedzenia Sejmu. Premier ma 14 dni na wygłoszenie expose i uzyskanie wotum zaufania bezwzględną większością głosów Sejmu (art. 154 ust. 1 i 2).
+Opisz KROK II powoływania Rady Ministrów (gdy Krok I się nie powiedzie):	W ciągu 14 dni Sejm sam wybiera Premiera i proponowanych członków rządu większością bezwzględną w obecności co najmniej połowy ustawowej liczby posłów. Prezydent musi ich powołać (art. 154 ust. 3).
+Opisz KROK III powoływania Rady Ministrów (gdy Krok II się nie powiedzie):	W ciągu 14 dni Prezydent ponownie powołuje Premiera i rząd. Sejm udziela wotum zaufania zwykłą większością głosów w obecności połowy ustawowej liczby posłów. Brak wotum = rozwiązanie parlamentu (art. 155).
+Jaka większość głosów w Sejmie wymagana jest do udzielenia wotum zaufania rządowi w Kroku I i II, a jaka w Kroku III?	W Kroku I i II większość bezwzględna; w Kroku III większość zwykła (art. 154 i 155).
+Na czym polega konstruktywne wotum nieufności wobec Rady Ministrów?	Sejm wyraża nieufność rządowi większością ustawowej liczby posłów (min. 231) wyłącznie na wniosek zgłoszony przez co najmniej 46 posłów, wskazując imiennie nowego kandydata na Premiera (art. 158 ust. 1).
+W jakim terminie może zostać poddany pod głosowanie wniosek o wyrażenie wotum nieufności?	Nie wcześniej niż po upływie 7 dni od dnia jego zgłoszenia (art. 158 ust. 1).
+Kiedy można zgłosić powtórny wniosek o wotum nieufności, jeśli poprzedni został odrzucony?	Po upływie 3 miesięcy od dnia zgłoszenia poprzedniego wniosku, chyba że nowy wniosek zgłosi co najmniej 115 posłów (art. 158 ust. 2).
+Z ilu sędziów składa się Trybunał Konstytucyjny?	Z 15 sędziów (art. 194 ust. 1).
+Przez kogo i na jaką kadencję są wybierani sędziowie Trybunału Konstytucyjnego?	Przez Sejm indywidualnie na 9-letnią, nieodnawialną kadencję (art. 194 ust. 1).
 Kto powołuje Prezesa i Wiceprezesa Trybunału Konstytucyjnego?	Prezydent RP spośród kandydatów przedstawionych przez Zgromadzenie Ogólne Sędziów TK (art. 194 ust. 2).
-Jaką moc mają orzeczenia Trybunału Konstytucyjnego?	Mają moc powszechnie wiążącą i są ostateczne (nie podlegają zaskarżeniu) (art. 190 ust. 1).
-Gdzie i w jakim terminie są ogłaszane orzeczenia Trybunału Konstytucyjnego?	W organie wydawniczym, w którym opublikowano akt normatywny (np. Dziennik Ustaw), niezwłocznie po ich wydaniu (art. 190 ust. 2).
-Skład Trybunału Stanu	Przewodniczący, 2 zastępców przewodniczącego i 16 członków (art. 199 ust. 1).
+Jakie znaczenie mają orzeczenia Trybunału Konstytucyjnego i kiedy wchodzą w życie?	Mają moc powszechnie wiążącą, są ostateczne i wchodzą w życie z dniem ogłoszenia w odpowiednim organie publikacyjnym (art. 190).
+Z ilu członków składa się Trybunał Stanu?	Z 19 osób: Przewodniczącego, 2 zastępców przewodniczącego i 16 członków (art. 199 ust. 1).
 Kto z urzędu pełni funkcję Przewodniczącego Trybunału Stanu?	Pierwszy Prezes Sądu Najwyższego (art. 199 ust. 2).
-Kto i na jaki czas wybiera członków Trybunału Stanu?	Sejm na okres swojej kadencji (oprócz Przewodniczącego) (art. 199 ust. 1).
-Kto może odpowiadać przed Trybunałem Stanu?	Prezydent RP, Premier, członkowie rządu, Prezes NBP, Prezes NIK, członkowie KRRiT, Naczelny Dowódca Sił Zbrojnych, posłowie i senatorowie (w ograniczonym zakresie) (art. 198 ust. 1).
-Jakie organy sprawują wymiar sprawiedliwości w Polsce?	Sąd Najwyższy, sądy powszechne, sądy administracyjne oraz sądy wojskowe (art. 175 ust. 1).
-Kto powołuje sędziów w Polsce?	Prezydent RP, na wniosek Krajowej Rady Sądownictwa, na czas nieoznaczony (art. 179).
-Ile trwa kadencja Pierwszego Prezesa Sądu Najwyższego?	6 lat (art. 183 ust. 3).
-Ile trwa kadencja Prezesa Naczelnego Sądu Administracyjnego?	6 lat (art. 185).
-Łączna liczba członków Krajowej Rady Sądownictwa (KRS)	25 członków (art. 187 ust. 1).
-Skład Krajowej Rady Sądownictwa (KRS) – wyszczególnienie	1. Pierwszy Prezes SN. 2. Prezes NSA. 3. Minister Sprawiedliwości. 4. Osoba powołana przez Prezydenta. 5. 4 posłów wybranych przez Sejm. 6. 2 senatorów wybranych przez Senat. 7. 15 sędziów wybranych spośród sędziów (art. 187 ust. 1).
-Ile trwa kadencja wybieralnych członków KRS?	4 lata (art. 187 ust. 3).
-Czy sędziowie są usuwalni?	Nie, sędziowie są nieusuwalni. Złożenie sędziego z urzędu lub zawieszenie wymaga orzeczenia sądu (art. 180 ust. 1 i 2).
-Kto powołuje Prezesa Najwyższej Izby Kontroli (NIK) i na jaką kadencję?	Sejm za zgodą Senatu, na kadencję wynoszącą 6 lat. Ta sama osoba nie może być ponownie wybrana więcej niż raz (art. 205 ust. 1).
-Przed kim odpowiada Najwyższa Izba Kontroli (NIK)?	Przed Sejmem (art. 202 ust. 2).
-Kto powołuje Rzecznika Praw Obywatelskich (RPO) i na jaką kadencję?	Sejm za zgodą Senatu, na kadencję wynoszącą 5 lat (art. 209 ust. 1).
-Liczba członków Krajowej Rady Radiofonii i Telewizji (KRRiT)	5 członków (zgodnie z ustawą, Konstytucja mówi ogólnie o członkach powoływanych przez Sejm, Senat i Prezydenta) (art. 214 ust. 1).
-Ile wynosi kadencja członków KRRiT?	6 lat (art. 214 ust. 1).
-Kto powołuje Prezesa Narodowego Banku Polskiego (NBP) i na jaką kadencję?	Sejm na wniosek Prezydenta RP, na 6 lat (art. 227 ust. 3).
-Kto wchodzi w skład Rady Polityki Pieniężnej (RPP)?	Prezes NBP jako przewodniczący oraz 9 członków powoływanych w równej liczbie (po 3) przez Prezydenta, Sejm i Senat (art. 227 ust. 5).
-Ile wynosi kadencja członków Rady Polityki Pieniężnej (RPP)?	6 lat (art. 227 ust. 5).
-Hierarchia źródeł prawa powszechnie obowiązującego w Polsce (od najwyższego)	1. Konstytucja. 2. Ratyfikowane umowy międzynarodowe. 3. Ustawy. 4. Rozporządzenia z mocą ustawy (tylko w stanie wojennym). 5. Rozporządzenia. 6. Akty prawa miejscowego (art. 87).
-Kto wydaje rozporządzenia z mocą ustawy i w jakich warunkach?	Prezydent RP na wniosek Rady Ministrów, wyłącznie w czasie stanu wojennego, jeżeli Sejm nie może się zebrać na posiedzenie (art. 234 ust. 1).
-Kto posiada inicjatywę ustawodawczą w Polsce?	1. Posłowie (komisje sejmowe lub co najmniej 15 posłów). 2. Senat (jako cała izba). 3. Prezydent RP. 4. Rada Ministrów (rząd). 5. Grupa co najmniej 100 000 obywateli (art. 118).
-Kto posiada inicjatywę zmiany Konstytucji?	1. Co najmniej 1/5 ustawowej liczby posłów (92 posłów). 2. Senat. 3. Prezydent RP (art. 235 ust. 1).
-Jaką większością Sejm i Senat uchwalają zmianę Konstytucji?	Sejm: większością co najmniej 2/3 głosów w obecności min. połowy ustawowej liczby posłów. Senat: bezwzględną większością głosów w obecności min. połowy ustawowej liczby senatorów (art. 235 ust. 4).
-W jakim terminie od uchwalenia przez Sejm Senat musi przyjąć zmianę Konstytucji?	W ciągu maksymalnie 60 dni (art. 235 ust. 4).
-Kiedy można żądać przeprowadzenia referendum zatwierdzającego zmianę Konstytucji?	Jeżeli zmiana dotyczy przepisów rozdziału I (Rzeczpospolita), II (Wolności, prawa i obowiązki) lub XII (Zmiana Konstytucji) (art. 235 ust. 6).
-Kto i w jakim terminie może wnioskować o referendum zatwierdzające zmianę Konstytucji?	Podmioty z inicjatywą (Prezydent, Senat lub 1/5 posłów) w ciągu 21 dni od uchwalenia ustawy przez Senat (art. 235 ust. 6).
-Jakie stany nadzwyczajne przewiduje Konstytucja RP?	Stan wojenny, stan wyjątkowy, stan klęski żywiołowej (art. 228 ust. 1).
-Kto i na czyj wniosek wprowadza stan wojenny lub wyjątkowy?	Prezydent RP na wniosek Rady Ministrów (art. 229, art. 230).
-W jakim terminie Prezydent przedstawia Sejmowi rozporządzenie o wprowadzeniu stanu wojennego lub wyjątkowego?	W ciągu 48 godzin od jego podpisania (art. 231).
-W jakim terminie Sejm rozpatruje rozporządzenie o stanie wojennym/wyjątkowym i jaką większością może je uchylić?	Niezwłocznie; może je uchylić bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów (art. 231).
-Na jaki czas może być wprowadzony stan wyjątkowy?	Na czas oznaczony, nie dłuższy niż 90 dni (art. 230 ust. 1).
-O ile i za czyją zgodą można jednorazowo przedłużyć stan wyjątkowy?	Tylko raz, za zgodą Sejmu, na czas nie dłuższy niż 60 dni (art. 230 ust. 2).
-Kto, na jaki czas i w jakim celu wprowadza stan klęski żywiołowej?	Rada Ministrów (rząd), na czas oznaczony nie dłuższy niż 30 dni, w celu zapobieżenia skutkom katastrof naturalnych lub awarii technicznych (art. 232).
-Za czyją zgodą i o ile można przedłużyć stan klęski żywiołowej?	Za zgodą Sejmu, ustawa nie określa sztywnego limitu dni dla tego przedłużenia (art. 232).
-Jakie są restrykcje wyborcze w czasie stanu nadzwyczajnego oraz po jego zakończeniu?	W czasie stanu nadzwyczajnego oraz w ciągu 90 dni po jego zakończeniu nie może być skrócona kadencja Sejmu, nie mogą być przeprowadzane wybory parlamentarne, prezydenckie ani samorządowe, ani referenda (art. 228 ust. 7).
-W jakim terminie od zakończenia stanu nadzwyczajnego ulegają przedłużeniu kadencje organów wyborczych?	Kadencje tych organów ulegają odpowiedniemu przedłużeniu, a wybory mogą odbyć się nie wcześniej niż po upływie 90 dni od dnia zakończenia stanu nadzwyczajnego (art. 228 ust. 7).
-Kto tworzy i znosi województwa w Polsce?	Zasady zasadniczego podziału terytorialnego państwa określa ustawa (decyduje Sejm w drodze ustawy) (art. 15 ust. 2).
-Która jednostka samorządu jest konstytucyjnie podstawowa?	Gmina (art. 164 ust. 1).
-Jakie zadania wykonuje samorząd terytorialny?	Zadania publiczne niezastrzeżone przez Konstytucję lub ustawy dla organów innych władz publicznych (art. 166 ust. 1).
-Co przysługuje jednostkom samorządu terytorialnego w celu potwierdzenia ich niezależności?	Osobowość prawna oraz prawo własności i inne prawa majątkowe, które podlegają ochronie sądowej (art. 165).
-Zasada subsydiarności (pomocniczości) – gdzie jest zapisana?	W preambule do Konstytucji RP.
-Kto sprawuje nadzór nad działalnością samorządu terytorialnego?	Prezes Rady Ministrów (Premier), wojewodowie, a w zakresie spraw finansowych – regionalne izby obrachunkowe (RIO) (art. 171 ust. 1).
-Jakie jest kryterium nadzoru nad samorządem terytorialnym?	Kryterium legalności (zgodności z prawem) (art. 171 ust. 1).
-Kto może rozwiązać organ stanowiący samorządu terytorialnego, jeśli narusza on Konstytucję?	Sejm na wniosek Prezesa Rady Ministrów (art. 171 ust. 3).
-Kto powołuje członków Krajowej Rady Sądownictwa z ramienia Sejmu i ilu?	Sejm wybiera spośród posłów 4 członków (art. 187 ust. 1 pkt 2).
-Kto powołuje członków Krajowej Rady Sądownictwa z ramienia Senatu i ilu?	Senat wybiera spośród senatorów 2 członków (art. 187 ust. 1 pkt 2).
-Kto powołuje jednego członka KRS bezpośrednio jako swojego przedstawiciela?	Prezydent RP (art. 187 ust. 1 pkt 1).
-Czy orzeczenia sądów w Polsce są dwuinstancyjne?	Tak, postępowanie sądowe jest co najmniej dwuinstancyjne (art. 176 ust. 1).
-Co to jest inicjatywa ludowa w sprawie referendum ogólnokrajowego?	Sejm może zarządzić referendum na wniosek co najmniej 500 000 obywateli (zgodnie z ustawą o referendum, Konstytucja w art. 125 ust. 2 daje ogólne prawo Sejmowi).
-Kiedy referendum ogólnokrajowe jest wiążące?	Jeżeli wzięło w nim udział więcej niż połowa uprawnionych do głosowania (art. 125 ust. 3).
-Z ilu czytań składa się procedura rozpatrywania projektu ustawy w Sejmie?	Z trzech czytań (art. 119 ust. 1).
-Kto podpisuje umowę międzynarodową przed jej ratyfikacją?	Rada Ministrów (rząd) lub jej pełnomocnik, a ratyfikuje Prezydent.
-Kiedy ratyfikacja umowy międzynarodowej wymaga zgody wyrażonej w ustawie?	Gdy dotyczy m.in. pokoju, sojuszy, układów wojskowych, wolności i praw obywatelskich, członkostwa w organizacjach międzynarodowych, znacznego obciążenia finansowego państwa (art. 89 ust. 1).
-Jaką większością uchwalana jest ustawa wyrażająca zgodę na przekazanie organizacji międzynarodowej kompetencji organów władzy państwowej (np. Unii Europejskiej)?	Większością 2/3 głosów w Sejmie i 2/3 głosów w Senacie w obecności co najmniej połowy ustawowej liczby posłów/senatorów (art. 90 ust. 2).
+Przez kogo, na jaki okres i spośród kogo są wybierani członkowie Trybunału Stanu?	Przez Sejm na okres kadencji Sejmu (czyli na 4 lata), przy czym zastępcy przewodniczącego oraz członkowie nie mogą być posłami ani senatorami (art. 199 ust. 1).
+Z ilu członków składa się Krajowa Rada Sądownictwa (KRS)?	Z 25 członków (art. 187 ust. 1).
+Wymień pełny skład Krajowej Rady Sądownictwa (KRS):	I Prezes SN, Prezes NSA, Minister Sprawiedliwości, 1 osoba powołana przez Prezydenta, 15 sędziów (SN, powszechnych, administracyjnych, wojskowych), 4 posłów i 2 senatorów (art. 187 ust. 1).
+Ile wynosi kadencja wybranych członków Krajowej Rady Sądownictwa?	4 lata (art. 187 ust. 3).
+Kto w Polsce powołuje sędziów na wniosek Krajowej Rady Sądownictwa?	Prezydent RP na czas nieoznaczony (art. 179).
+Ile wynosi kadencja Pierwszego Prezesa Sądu Najwyższego?	6 lat (art. 183 ust. 3).
+Ile wynosi kadencja Prezesa Naczelnego Sądu Administracyjnego?	6 lat (art. 185).
+Przez kogo i na jaki czas powoływany jest Rzecznik Praw Obywatelskich?	Przez Sejm za zgodą Senatu na okres 5 lat (art. 209 ust. 1).
+Ile wynosi kadencja Prezesa Najwyższej Izby Kontroli (NIK)?	6 lat, może być ponownie powołany tylko raz (art. 205 ust. 1).
+Przez kogo i za czyją zgodą powoływany jest Prezes Najwyższej Izby Kontroli?	Przez Sejm za zgodą Senatu (art. 205 ust. 1).
+Z ilu członków składa się Krajowa Rada Radiofonii i Telewizji (KRRiT) według Konstytucji?	Konstytucja wskazuje, że skład określa ustawa, ale określa zasady powoływania przez Sejm, Senat i Prezydenta (art. 214 ust. 1). Ustawa precyzuje obecnie 5 członków.
+Ile wynosi konstytucyjna kadencja członków Krajowej Rada Radiofonii i Telewizji?	6 lat (art. 214 ust. 1).
+Z kogo składa się Rada Polityki Pieniężnej (RPP)?	Z Prezesa NBP jako przewodniczącego oraz 9 członków powoływanych w równej liczbie (po trzech) przez Prezydenta, Sejm i Senat (art. 227 ust. 5).
+Ile wynosi kadencja członków Rady Polityki Pieniężnej?	6 lat (art. 227 ust. 5).
+Kto powołuje Prezesa Narodowego Banku Polskiego?	Sejm na wniosek Prezydenta RP na okres 6 lat (art. 227 ust. 3).
+Wymień hierarchię źródeł powszechnie obowiązującego prawa RP od najwyższego:	1. Konstytucja, 2. Ratyfikowane umowy międzynarodowe, 3. Ustawy, 4. Rozporządzenia, 5. Akty prawa miejscowego (art. 87).
+Jaki warunek musi być spełniony, aby akt prawa powszechnie obowiązującego wszedł w życie?	Musi zostać prawidłowo ogłoszony w odpowiednim dzienniku urzędowym (art. 88 ust. 1).
+Kto posiada inicjatywę przedłożenia projektu ustawy o zmianie Konstytucji RP?	Co najmniej 1/5 ustawowej liczby posłów, Senat oraz Prezydent RP (art. 235 ust. 1). Obywatele nie mają tej inicjatywy.
+Jaką większością Sejm i Senat uchwalają zmianę Konstytucji?	Sejm większością co najmniej 2/3 głosów, Senat bezwzględną większością głosów, w obu przypadkach w obecności min. połowy ustawowej liczby parlamentarzystów (art. 235 ust. 4).
+W jakim terminie od uchwalenia zmiany Konstytucji podmioty uprawnione mogą żądać przeprowadzenia referendum zatwierdzającego?	W ciągu 45 dni od uchwalenia ustawy przez Senat, jeśli zmiana dotyczy rozdziałów I, II lub XII (art. 235 ust. 6).
+Jakie wyróżniamy stany nadzwyczajne w Konstytucji RP?	Stan wojenny, stan wyjątkowy, stan klęski żywiołowej (art. 228 ust. 1).
+Kto i na czyj wniosek wprowadza stan wyjątkowy oraz na jaki maksymalny czas?	Prezydent RP na wniosek Rady Ministrów, na czas oznaczony nie dłuższy niż 90 dni (art. 230 ust. 1).
+O ile i za czyją zgodą Prezydent może jednorazowo przedłużyć stan wyjątkowy?	Tylko raz, za zgodą Sejmu, na czas nie dłuższy niż 60 dni (art. 230 ust. 2).
+W jakim terminie Prezydent musi przedstawić Sejmowi rozporządzenie o wprowadzeniu stanu wojennego lub wyjątkowego?	W ciągu 48 godzin od podpisania rozporządzenia; Sejm rozpatruje je natychmiast (art. 231).
+Jaką większością Sejm może uchylić rozporządzenie Prezydenta o wprowadzeniu stanu nadzwyczajnego?	Bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów (art. 231).
+Kto, na jaki czas i w jakim celu wprowadza stan klęski żywiołowej?	Rada Ministrów (Rząd), na czas oznaczony nie dłuższy niż 30 dni, w celu zapobieżenia skutkom katastrof naturalnych lub awarii technicznych (art. 232).
+O jaki okres po zakończeniu stanu nadzwyczajnego nie można skrócić kadencji parlamentu ani przeprowadzać wyborów?
+W czasie stanu nadzwyczajnego oraz w ciągu 90 dni po jego zakończeniu (art. 228 ust. 7).
+Która polska konstytucja historyczna wprowadziła ustrój skrajnie parlamentarno-gabinetowy i słabą pozycję Prezydenta?	Konstytucja Marcowa z 17 marca 1921 roku.
+Czy Prezydent w myśl Konstytucji Marcowej z 1921 r. posiadał prawo weta wobec ustaw?	Nie, Prezydent nie posiadał instytucji weta, musiał podpisać ustawę w ciągu 14 dni, jeśli Senat nie zgłosił sprzeciwu.
+Która konstytucja historyczna stanowiła, że Prezydent odpowiada wyłącznie przed Bogiem i historią?	Konstytucja Kwietniowa z 23 kwietnia 1935 roku (art. 2 ust. 2).
+Jak wyglądała hierarchia organów państwa pod rządami Konstytucji Kwietniowej z 1935 r.?	Prezydent stał na czele państwa i skupiał jednolitą i niepodzielną władzę państwową, pod rządem której znajdował się rząd, parlament, sądy i siły zbrojne.
+Którą marksistowską zasadę ustrojową wprowadzała Konstytucja PRL z 22 lipca 1952 roku zamiast trójpodziału władzy?	Zasadę jednolitości władzy państwowej, gdzie Sejm był formalnie najwyższym organem, wykonującym wolę ludu pracującego miast i wsi.
+Jaki kolegialny organ zastąpił urząd Prezydenta w Konstytucji PRL z 1952 roku?	Rada Państwa (Prezydenta przywrócono dopiero nowelą kwietniową w 1989 r.).
+Jakie dwie kontrowersyjne deklaracje polityczne wpisano do Konstytucji PRL podczas jej nowelizacji w 1976 roku?	Przewodnią rolę PZPR w budowie socjalizmu oraz wieczystą przyjaźń i sojusz ze Związkiem Radzieckim (ZSRR).
+Kto był pierwszą kobietą na stanowisku Marszałka Sejmu w historii Polski?	Ewa Kopacz, sprawująca tę funkcję w latach 2011–2014.
+Wymień chronologicznie wszystkie kobiety, które pełniły urząd Marszałka Sejmu RP:	1. Ewa Kopacz (2011–2014), 2. Małgorzata Kidawa-Błońska (2015), 3. Elżbieta Witek (2019–2023).
+Kto był pierwszą kobietą na stanowisku Marszałka Senatu w historii Polski i w jakich latach?	Alicja Grześkowiak, pełniła funkcję Marszałka Senatu IV kadencji w latach 1997–2001.
+Kto jest obecną kobietą-Marszałkiem Senatu wybraną w XI kadencji od 2023 roku?	Małgorzata Kidawa-Błońska.
+Jaki unikalny rekord ustrojowy w historii Polski posiada Małgorzata Kidawa-Błońska?	Jest jedyną osobą w historii Rzeczypospolitej, która sprawowała funkcję zarówno Marszałka Sejmu, jak i Marszałka Senatu.
+Kto podpisuje ustawę budżetową, jeżeli Prezydent RP odmówi złożenia podpisu?	Prezydent nie może odmówić (nie ma weta). Musi ją podpisać w ciągu 7 dni, chyba że odeśle ją do TK (art. 224).
+Jaki organ i która jego konkretna komórka decyduje obecnie o ważności wyboru Prezydenta RP?	Sąd Najwyższy (Izba Kontroli Nadzwyczajnej i Spraw Publicznych, art. 129 ust. 1).
+Kto podejmuje decyzję o formalnym stanie wojny, jeżeli Sejm nie może zebrać się na posiedzenie?	Prezydent RP (art. 116 ust. 2).
+Czy Konstytucja RP pozwala w jakimkolwiek punkcie na ograniczenie wolności lub praw obywatelskich ze względu na płeć?	Nie, art. 33 wprost gwarantuje równe prawa kobiet i mężczyzn we wszystkich dziedzinach życia.
+Ile wynosi konstytucyjny limit relacji państwowego długu publicznego do rocznego produktu krajowego brutto (PKB)?	Nie może przekroczyć 3/5 (czyli 60%) rocznego PKB (art. 216 ust. 5).
+W ilu czytaniach Sejm rozpatruje projekty ustaw?	W trzech czytaniach (art. 119 ust. 1).
+Kto ma prawo zgłosić wniosek o postawienie członka Rady Ministrów do odpowiedzialności przed Trybunałem Stanu?	Prezydent RP lub co najmniej 115 posłów (art. 156 ust. 2).
+Jaką większością Sejm podejmuje uchwałę o pociągnięciu członka rządu do odpowiedzialności przed Trybunałem Stanu?	Większością 3/5 ustawowej liczby posłów (czyli min. 276 głosów, art. 156 ust. 2).
+Kto powołuje Szefa Kancelarii Prezydenta RP i czy ta czynność wymaga kontrasygnaty?	Powołuje Prezydent RP; jest to jego prerogatywa, która NIE wymaga kontrasygnaty premiera (art. 144 ust. 3 pkt 27).
+Co dzieje się z projektem ustawy w Sejmie, gdy upływa kadencja parlamentu (zasada dyskontynuacji)?	Wszystkie niezakończone prace nad projektami ustaw zostają przerwane i anulowane (z pewnymi ustawowymi wyjątkami jak projekt obywatelski).
+Czy immunitet parlamentarny posła lub senatora jest bezwzględny w każdej sytuacji?	Nie, jest względny. Za zgodą Sejmu lub Senatu parlamentarzysta może zostać pociągnięty do odpowiedzialności karnej lub aresztowany (art. 105).
+Kto z urzędu wchodzi w skład Rady Bezpieczeństwa Narodowego (RBN) jako organu doradczego Prezydenta?	Konstytucja nie precyzuje składu, wskazuje jedynie, że RBN jest organem doradczym Prezydenta (art. 135), a skład określa sam Prezydent.
+Kto posiada prawo wniesienia skargi konstytucyjnej do Trybunału Konstytucyjnego?	Każdy, czyje konstytucyjne wolności lub prawa zostały naruszone przez ostateczne orzeczenie sądu lub organu administracji (art. 79 ust. 1).
+Czego NIE może dotyczyć skarga konstytucyjna wnoszona przez obywatela?	Nie może dotyczyć uzyskania prawa do azylu ani statusu uchodźcy (art. 79 ust. 2).
+Jaki status w hierarchii źródeł prawa mają rozporządzenia z mocą ustawy i kto je wydaje?
+Mają moc ustawy, wydaje je Prezydent RP na wniosek Rady Ministrów wyłącznie w czasie stanu wojennego, gdy Sejm nie może się zebrać (art. 234).
+Przez kogo i kiedy muszą zostać zatwierdzone rozporządzenia z mocą ustawy wydane przez Prezydenta?	Przez Sejm na najbliższym posiedzeniu (art. 234 ust. 2).
+Jakie akty prawne zalicza się do aktów prawa miejscowego?	Uchwały organów samorządu terytorialnego oraz zarządzenia terenowych organów administracji rządowej (wojewodów) obowiązujące na obszarze działania tych organów (art. 94).
+Czy orzeczenie Trybunału Konstytucyjnego o niezgodności ustawy z Konstytucją automatycznie usuwa przepis z obrotu prawnego?	Tak, z dniem ogłoszenia wyroku, chyba że TK określi inny termin utraty mocy obowiązującej (dla ustawy maksymalnie 18 miesięcy, art. 190 ust. 3).
+Jaką większością głosów Zgromadzenie Narodowe podejmuje uchwałę o uznaniu trwałej niezdolności Prezydenta do sprawowania urzędu ze względu na stan zdrowia?	Większością co najmniej 2/3 głosów ustawowej liczby członków Zgromadzenia Narodowego (art. 131 ust. 2 pkt 4).
+Czy poseł może sprawować mandat senatorski lub funkcję sędziego Trybunału Konstytucyjnego?	Nie, zakazuje tego zasada incompatibilitatis (niepołączalności mandatów i funkcji, art. 102 i art. 103).
+Kto i w jakim trybie ogłasza akty prawne w Dzienniku Ustaw Rzeczypospolitej Polskiej?	Prezes Rady Ministrów (Premier) zarządza ogłoszenie aktów prawnych na podstawie odrębnych przepisów ustawowych.
+Który organ określa reguły i zasady działania Sejmu oraz wewnętrzny porządek prac parlamentarnych?	Sam Sejm poprzez uchwalenie własnego Regulaminu Sejmu (art. 112).
